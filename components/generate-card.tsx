@@ -8,14 +8,12 @@ export type GenerateCardType = {
   Icon: React.ComponentType;
 };
 
-interface GenerateCardProps extends GenerateCardType {}
-
 export default function GenerateCard({
   title,
   description,
   isNew,
   Icon,
-}: GenerateCardProps) {
+}: GenerateCardType) {
   return (
     <div className="flex items-center justify-between">
       <div className="flex items-center gap-2">
