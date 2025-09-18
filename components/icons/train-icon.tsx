@@ -1,8 +1,8 @@
 export default function TrainIcon() {
   return (
     <svg
-      width="42"
-      height="42"
+      width="50"
+      height="50"
       viewBox="0 0 24 24"
       fill="none"
       className="dark:text-primary-0 text-[#c4c4c5] block shrink-0"
