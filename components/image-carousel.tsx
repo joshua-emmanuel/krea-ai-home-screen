@@ -29,53 +29,53 @@ const carouselData = [
     badge: "OPEN SOURCE MODEL",
   },
   {
-    bgImage: "/images/wan2.2.webp",
-    title: "WAN 2.2 Image generation",
+    bgImage: "/images/open-poster.webp",
+    title: "Krea 1 - Open Beta Access",
     description:
-      "Generate complex images with the brand new and powerfulWAN 2.2 model. Exceptional prompt adherence and ultra-realistic textures.",
-    badge: "NEW IMAGE MODEL",
+      "Free access to our new frontier AI image generator. Enjoy unparalleled photorealism, multi-language prompting, and ultra high resolutions.",
+    badge: "KREA 1 -OPEN BETA ACCESS",
   },
   {
-    bgImage: "/images/open-source.webp",
-    title: "FLUX X.1 Krea",
+    bgImage: "/images/motion-transfer-poster.webp",
+    title: "Introducing Motion Transfer",
     description:
-      "We're making the weights to our FLUX.1 Krea model open-source. Download and run our model weights, read the technical report, or generate with it in Krea Image.",
-    badge: "OPEN SOURCE MODEL",
+      "Bring motion into your characters. Upload any image, record a video of yourself, and make your characters smile, talk, and dance. Powered by Runway Act 2.",
+    badge: "NEW TOOL",
   },
   {
-    bgImage: "/images/wan2.2.webp",
-    title: "WAN 2.2 Image generation",
+    bgImage: "/images/edit-kontext-poster.webp",
+    title: "Edit with Kontext",
     description:
-      "Generate complex images with the brand new and powerfulWAN 2.2 model. Exceptional prompt adherence and ultra-realistic textures.",
-    badge: "NEW IMAGE MODEL",
+      "Editing images has never been easier. Try FLUX.1 Kontext to change generations and photos.",
+    badge: "NEW TOOL",
   },
   {
-    bgImage: "/images/open-source.webp",
-    title: "FLUX X.1 Krea",
+    bgImage: "/images/lip-sync-announcement.webp",
+    title: "Announcing Lip-syncing",
     description:
-      "We're making the weights to our FLUX.1 Krea model open-source. Download and run our model weights, read the technical report, or generate with it in Krea Image.",
-    badge: "OPEN SOURCE MODEL",
+      "Make your characters talk - upload a face, generate or record voices, and bring life into your generations. Powerful lip-syncing with Hedra. ",
+    badge: "NEW FEATURE",
   },
   {
-    bgImage: "/images/wan2.2.webp",
-    title: "WAN 2.2 Image generation",
+    bgImage: "/images/lion-poster.webp",
+    title: "New Enhance Models",
     description:
-      "Generate complex images with the brand new and powerfulWAN 2.2 model. Exceptional prompt adherence and ultra-realistic textures.",
-    badge: "NEW IMAGE MODEL",
+      "Try out Krea's new powerful generative enhancer, upscale to 22K resolution with Topaz, or save credits with super fast models.",
+    badge: "NEW MODEL",
   },
   {
-    bgImage: "/images/open-source.webp",
-    title: "FLUX X.1 Krea",
+    bgImage: "/images/open-poster.webp",
+    title: "Krea 1 - Open Beta Access",
     description:
-      "We're making the weights to our FLUX.1 Krea model open-source. Download and run our model weights, read the technical report, or generate with it in Krea Image.",
-    badge: "OPEN SOURCE MODEL",
+      "Free access to our new frontier AI image generator. Enjoy unparalleled photorealism, multi-language prompting, and ultra high resolutions.",
+    badge: "KREA 1 -OPEN BETA ACCESS",
   },
   {
-    bgImage: "/images/open-source.webp",
-    title: "FLUX X.1 Krea",
+    bgImage: "/images/lip-sync-announcement.webp",
+    title: "Announcing Lip-syncing",
     description:
-      "We're making the weights to our FLUX.1 Krea model open-source. Download and run our model weights, read the technical report, or generate with it in Krea Image.",
-    badge: "OPEN SOURCE MODEL",
+      "Make your characters talk - upload a face, generate or record voices, and bring life into your generations. Powerful lip-syncing with Hedra. ",
+    badge: "NEW FEATURE",
   },
 ];
 

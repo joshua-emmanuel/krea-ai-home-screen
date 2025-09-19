@@ -36,7 +36,7 @@ export default function Home() {
         </div>
       </section>
 
-      <div className="absolute bottom-2 right-0 flex gap-2">
+      <div className="absolute bottom-2 right-1 flex gap-2">
         <Button
           size="sm"
           className="flex items-center bg-muted text-neutral-700 dark:text-neutral-200 hover:bg-muted hover:text-neutral-700"
